@@ -1,4 +1,4 @@
-# Coarray Wrapper Framework: Main_Directory
+# Coarray Wrapper Framework: Main Directory
 Fortran Coarray Wrapper Framework: Overwiew with Links to the Distinct Parts
 
 # Welcome
